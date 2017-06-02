@@ -1,5 +1,5 @@
 namespace Flappy {
-    const JUMP_TILT_ANGLE = -70;
+    const JUMP_TILT_ANGLE = -60;
 
     export class Bird extends BaseBird {
         protected currentSpeed: number;
