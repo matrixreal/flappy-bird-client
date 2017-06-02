@@ -1,7 +1,7 @@
 namespace Flappy.Global {
     export class Constants {
         public static gameSpeed: number = 0.2;
-        public static jumpSpeed: number = 400;
+        public static jumpSpeed: number = 450;
         public static gapSize: number = 185; // 155 normally
         public static gravity: number = 2000;
         public static pipeSpacing: number = 200;
